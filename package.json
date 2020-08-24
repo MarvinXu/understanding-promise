@@ -1,0 +1,14 @@
+{
+  "name": "understanding-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MarvinXu/understanding-promise.git",
+  "author": "xupeiyuan <xupeiyuan123@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "promises-aplus-tests promise.js"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
